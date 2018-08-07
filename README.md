@@ -1,2 +1,3 @@
-# GameOfThrallsMod
-Conan Exiles Mod for the Game of Thralls Server
+# Game of Thralls Conan Exiles Mod
+
+Initial Creation
